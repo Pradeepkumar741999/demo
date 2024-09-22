@@ -25,7 +25,7 @@ class HomePage extends HookWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Crystal HR'),
+        title: Text('Crystal HR 123'),
       ),
       body: Container(
         child: Column(
