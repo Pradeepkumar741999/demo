@@ -1,0 +1,4 @@
+#Mon Oct 10 16:19:52 IST 2022
+base.0=D\:\\Flutter Project List\\logincrystaldemo\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
